@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "nodeJs and Express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khawla-1006/part3-nodeJs-express-App.git"
+  },
+  "keywords": [
+    "khawla-1006"
+  ],
+  "author": "Github",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khawla-1006/part3-nodeJs-express-App/issues"
+  },
+  "homepage": "https://github.com/Khawla-1006/part3-nodeJs-express-App#readme"
+}
