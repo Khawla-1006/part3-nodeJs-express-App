@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Khawla-1006/part3-nodeJs-express-App/issues"
   },
-  "homepage": "https://github.com/Khawla-1006/part3-nodeJs-express-App#readme"
+  "homepage": "https://github.com/Khawla-1006/part3-nodeJs-express-App#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
